@@ -1,3 +1,2 @@
 #!/bin/bash
 head -3 facta | tail -1
-
